@@ -2,6 +2,6 @@
 - [x] Adaptando a página inicial
 - [x] Conteúdo externo
 - [x] Melhorando o CSS
-- [ ] Selecionando qualquer coisa
-- [ ] Opacidade e sombra
+- [x] Selecionando qualquer coisa
+- [x] Opacidade e sombra
 - [ ] Design responsivos
