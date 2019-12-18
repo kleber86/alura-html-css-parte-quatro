@@ -23,7 +23,7 @@ nav a{
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 18px;
     text-decoration: none;
 }
 nav a:hover{
@@ -211,7 +211,16 @@ td, th{
 }
 /* Responsive */
 @media screen and (max-width: 480px){
-    body{
-        background: red;
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+        width: auto;
+    }
+    h1{
+        text-align: center;
+    }
+    nav{
+        position: static;
+    }
+    .lista-beneficios, .imagens-beneficios{
+        width: 100%;
     }
 }
