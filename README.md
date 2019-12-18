@@ -4,4 +4,4 @@
 - [x] Melhorando o CSS
 - [x] Selecionando qualquer coisa
 - [x] Opacidade e sombra
-- [ ] Design responsivos
+- [x] Design responsivos
